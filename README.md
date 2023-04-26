@@ -1,3 +1,3 @@
 # RSS-Virtual-Keyboard
 
-## <https://Yakubovich-siarhei.github.io/RSS-Virtual-Keyboard>
+## <https://yakubovich-siarhei.github.io/RSS-Virtual-Keyboard/>
